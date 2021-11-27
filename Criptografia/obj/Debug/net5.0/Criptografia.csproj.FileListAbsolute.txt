@@ -1,0 +1,16 @@
+C:\Projetos\Criptografia\Criptografia\bin\Debug\net5.0\Criptografia.exe
+C:\Projetos\Criptografia\Criptografia\bin\Debug\net5.0\Criptografia.deps.json
+C:\Projetos\Criptografia\Criptografia\bin\Debug\net5.0\Criptografia.runtimeconfig.json
+C:\Projetos\Criptografia\Criptografia\bin\Debug\net5.0\Criptografia.runtimeconfig.dev.json
+C:\Projetos\Criptografia\Criptografia\bin\Debug\net5.0\Criptografia.dll
+C:\Projetos\Criptografia\Criptografia\bin\Debug\net5.0\ref\Criptografia.dll
+C:\Projetos\Criptografia\Criptografia\bin\Debug\net5.0\Criptografia.pdb
+C:\Projetos\Criptografia\Criptografia\obj\Debug\net5.0\Criptografia.csproj.AssemblyReference.cache
+C:\Projetos\Criptografia\Criptografia\obj\Debug\net5.0\Criptografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Criptografia\Criptografia\obj\Debug\net5.0\Criptografia.AssemblyInfoInputs.cache
+C:\Projetos\Criptografia\Criptografia\obj\Debug\net5.0\Criptografia.AssemblyInfo.cs
+C:\Projetos\Criptografia\Criptografia\obj\Debug\net5.0\Criptografia.csproj.CoreCompileInputs.cache
+C:\Projetos\Criptografia\Criptografia\obj\Debug\net5.0\Criptografia.dll
+C:\Projetos\Criptografia\Criptografia\obj\Debug\net5.0\ref\Criptografia.dll
+C:\Projetos\Criptografia\Criptografia\obj\Debug\net5.0\Criptografia.pdb
+C:\Projetos\Criptografia\Criptografia\obj\Debug\net5.0\Criptografia.genruntimeconfig.cache
